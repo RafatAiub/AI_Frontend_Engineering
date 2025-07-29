@@ -24,6 +24,7 @@ A complete visual playground to understand how React components behave during th
 
 ## 📁 Folder Structure
 
+```
 src/
 ├── components/
 │ ├── LifecycleLogger.js
@@ -32,6 +33,7 @@ src/
 │ └── Home.jsx
 ├── styles/
 │ └── tailwind.css
+```
 
 ---
 
